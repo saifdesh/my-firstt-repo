@@ -2,3 +2,16 @@ h1 {
     color: red;
 
 }
+
+.arg {
+    display: flex;
+    margin: 10px;
+    padding: 5px;
+    /* background-color: #ccc; */
+    align-content: center;
+}
+
+.img {
+    margin: 10px;
+    /* border: 2px solid; */
+}
